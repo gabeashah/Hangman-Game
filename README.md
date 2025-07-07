@@ -16,7 +16,7 @@ A simple Hangman game implemented in Python.
    ```
 2. Run the game:
    ```
-   python hangman.py
+   python3 hangman.py
    ```
 
 ## License
